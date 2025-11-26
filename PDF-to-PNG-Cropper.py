@@ -46,3 +46,4 @@ w = 0
 h = 0
 
 pdf_to_png_and_crop(pdf_path, output_folder, x, y, w, h)
+
